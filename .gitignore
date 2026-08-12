@@ -48,3 +48,20 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 .positai
+
+# Dados do GDC
+GDCdata/
+
+# Dados locais
+data/
+
+# Resultados locais
+results/
+
+# Figuras geradas
+figures/
+
+# Objetos R
+*.rds
+*.RData
+*.Rhistory
