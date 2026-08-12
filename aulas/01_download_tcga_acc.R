@@ -45,7 +45,6 @@ library(tidyverse)
 dir.create("data", showWarnings = FALSE)
 dir.create("results", showWarnings = FALSE)
 dir.create("figures", showWarnings = FALSE)
-dir.create("scripts", showWarnings = FALSE)
 
 #==============================================================================
 # 4. Construindo a consulta ao GDC
